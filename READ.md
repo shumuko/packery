@@ -7,11 +7,9 @@ Team
 
 * Fion Kou (fkou@arn.com) - Frontend
 
-Requirements
+Reference
 ------------
+http://packery.metafizzy.co/
 
-
-Getting Started
----------------
 
 
