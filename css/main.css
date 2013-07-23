@@ -156,6 +156,24 @@ nav a:hover {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+article li {
+  background-color: #CCC;
+  display: block;
+  float: left;
+  padding: 10px 50px;
+  margin: 5px;
+  width: 10%;
+}
+article li.v2 {
+  width: 5%;
+}
+article li.v3 {
+  width: 15%;
+}
+article li p {
+  font-size: 0.6em;
+  line-height: 10px;
+}
 
 
 
@@ -242,12 +260,12 @@ nav a:hover {
 
     .main article {
         float: left;
-        width: 57%;
+        width: 100%;
     }
 
     .main aside {
         float: right;
-        width: 28%;
+        width: 100%;
     }
 }
 
