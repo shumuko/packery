@@ -157,6 +157,7 @@ nav a:hover {
    Author's custom styles
    ========================================================================== */
 article li {
+  cursor: pointer;
   background-color: #CCC;
   display: block;
   float: left;
