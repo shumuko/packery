@@ -1,7 +1,7 @@
 Packery
 =======
 
-Test Packery out
+Testing Packery out
 
 See http://packery.metafizzy.co for complete docs and demos
 
